@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+/*
+   Fatty Mc Fat Fat!
+   Author: Nakita Jaramillo
+   Date:  04-17-2024 
+
+   Filename: form.css
+*/
+
+/* Body Header Styles */
+
+html {
+  color: #00ffff;
+  background-color: #9b97c5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.theme-alt {
+  color: #6159b2;
+  background-color: #00ffff;
+}
+
+.topnav {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  background-color: #7d77c5;
+  align-items: center;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color: #00ffff;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.icon img {
+  width: 50px;
+  height: auto;
+}
+
+.topnav a:hover {
+  background-color: #00ffff;
+  color: #9b97c5;
+}
+
+.active {
+  background-color: #7d77c5;
+  color: #00ffff;
+}
+
+.paw-icon-wrapper {
+  display: flex;
+}
