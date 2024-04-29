@@ -97,7 +97,7 @@ body {
 .image-container img {
     max-width: 500px;
     height: auto;
-    mask-image: url('/WebDevCat/images/clover1.png');
+    mask-image: url('/images/clover1.png');
     mask-repeat: no-repeat;
     mask-size: 90%;
     mask-mode: luminance;
